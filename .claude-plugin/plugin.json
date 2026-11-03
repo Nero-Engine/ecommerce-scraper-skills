@@ -1,0 +1,10 @@
+{
+  "name": "ecommerce-scraper-skills",
+  "version": "1.0.0",
+  "description": "Score ecommerce scraper rows with fixed rules: price per unit, Amazon review trend and complaints, winning Facebook ads, Reddit most recommended products. Zero dependencies, runs locally.",
+  "author": { "name": "Nero Labs", "url": "https://apify.com/nerolabs" },
+  "homepage": "https://github.com/Nero-Engine/ecommerce-scraper-skills",
+  "repository": "https://github.com/Nero-Engine/ecommerce-scraper-skills",
+  "license": "MIT",
+  "keywords": ["ecommerce", "product-research", "amazon", "unit-price", "amazon-reviews", "facebook-ads", "winning-ads", "reddit", "dropshipping"]
+}

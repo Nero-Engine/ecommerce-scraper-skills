@@ -1,0 +1,15 @@
+{
+  "name": "nero-labs-ecommerce",
+  "owner": { "name": "Nero Labs", "url": "https://apify.com/nerolabs" },
+  "metadata": { "description": "Ecommerce research skills for AI agents that score rows you already scraped: price per unit, Amazon review trend, winning Facebook ads, most recommended products on Reddit.", "version": "1.0.0" },
+  "plugins": [
+    {
+      "name": "ecommerce-scraper-skills",
+      "source": "./",
+      "description": "Four ecommerce and product research skills that score scraper rows locally: price per unit and bigger-pack traps from Amazon, Walmart or grocery rows, Amazon star rating trend with repeated complaints, Facebook Ad Library ads ranked by days running, and the products Reddit comments recommend most. Fixed rules, no AI fee, zero dependencies, Node 18+.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["ecommerce", "product-research", "amazon", "walmart", "unit-price", "amazon-reviews", "facebook-ads", "ad-library", "winning-ads", "reddit", "dropshipping", "apify"]
+    }
+  ]
+}

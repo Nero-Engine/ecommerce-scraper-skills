@@ -1,0 +1,244 @@
+[
+ {
+  "ad_archive_id": "90000000000001",
+  "page_name": "Kettlepeak Outdoors",
+  "page_id": "1000027362",
+  "start_date": "2026-06-12",
+  "end_date": "2026-11-01",
+  "is_active": true,
+  "collation_count": 6,
+  "collation_id": "c001",
+  "publisher_platform": [
+   "facebook",
+   "instagram"
+  ],
+  "display_format": "VIDEO",
+  "snapshot": {
+   "body": {
+    "text": "The travel mug that keeps coffee hot for 12 hours."
+   },
+   "cta_text": "Shop now",
+   "link_url": "https://kettlepeak.example/offer"
+  }
+ },
+ {
+  "ad_archive_id": "90000000000002",
+  "page_name": "Kettlepeak Outdoors",
+  "page_id": "1000027362",
+  "start_date": "2026-10-02",
+  "end_date": "2026-11-01",
+  "is_active": true,
+  "collation_count": 1,
+  "collation_id": "c002",
+  "publisher_platform": [
+   "facebook",
+   "instagram"
+  ],
+  "display_format": "VIDEO",
+  "snapshot": {
+   "body": {
+    "text": "New colours just dropped."
+   },
+   "cta_text": "Shop now",
+   "link_url": "https://kettlepeak.example/offer"
+  }
+ },
+ {
+  "ad_archive_id": "90000000000003",
+  "page_name": "Kettlepeak Outdoors",
+  "page_id": "1000027362",
+  "start_date": "2026-09-02",
+  "end_date": "2026-09-10",
+  "is_active": false,
+  "collation_count": 1,
+  "collation_id": "c003",
+  "publisher_platform": [
+   "facebook",
+   "instagram"
+  ],
+  "display_format": "IMAGE",
+  "snapshot": {
+   "body": {
+    "text": "Flash sale, 40% off today only."
+   },
+   "cta_text": "Shop now",
+   "link_url": "https://kettlepeak.example/offer"
+  }
+ },
+ {
+  "ad_archive_id": "90000000000004",
+  "page_name": "Kettlepeak Outdoors",
+  "page_id": "1000027362",
+  "start_date": "2026-10-11",
+  "end_date": "2026-10-14",
+  "is_active": false,
+  "collation_count": 1,
+  "collation_id": "c004",
+  "publisher_platform": [
+   "facebook",
+   "instagram"
+  ],
+  "display_format": "IMAGE",
+  "snapshot": {
+   "body": {
+    "text": "Gift guide: mugs for every hiker."
+   },
+   "cta_text": "Shop now",
+   "link_url": "https://kettlepeak.example/offer"
+  }
+ },
+ {
+  "ad_archive_id": "90000000000005",
+  "page_name": "Marlowe Bottles",
+  "page_id": "1000087868",
+  "start_date": "2026-07-29",
+  "end_date": "2026-11-01",
+  "is_active": true,
+  "collation_count": 3,
+  "collation_id": "c005",
+  "publisher_platform": [
+   "facebook",
+   "instagram"
+  ],
+  "display_format": "VIDEO",
+  "snapshot": {
+   "body": {
+    "text": "One bottle. Zero plastic. Join 50,000 happy drinkers."
+   },
+   "cta_text": "Shop now",
+   "link_url": "https://marlowe.example/offer"
+  }
+ },
+ {
+  "ad_archive_id": "90000000000006",
+  "page_name": "Marlowe Bottles",
+  "page_id": "1000087868",
+  "start_date": "2026-10-20",
+  "end_date": "2026-11-01",
+  "is_active": true,
+  "collation_count": 1,
+  "collation_id": "c006",
+  "publisher_platform": [
+   "facebook",
+   "instagram"
+  ],
+  "display_format": "IMAGE",
+  "snapshot": {
+   "body": {
+    "text": "Try it for 30 days, free returns."
+   },
+   "cta_text": "Shop now",
+   "link_url": "https://marlowe.example/offer"
+  }
+ },
+ {
+  "ad_archive_id": "90000000000007",
+  "page_name": "Marlowe Bottles",
+  "page_id": "1000087868",
+  "start_date": "2026-09-22",
+  "end_date": "2026-09-29",
+  "is_active": false,
+  "collation_count": 1,
+  "collation_id": "c007",
+  "publisher_platform": [
+   "facebook",
+   "instagram"
+  ],
+  "display_format": "IMAGE",
+  "snapshot": {
+   "body": {
+    "text": "Last chance: summer bundle."
+   },
+   "cta_text": "Shop now",
+   "link_url": "https://marlowe.example/offer"
+  }
+ },
+ {
+  "ad_archive_id": "90000000000008",
+  "page_name": "Fernlo Gear",
+  "page_id": "1000066853",
+  "start_date": "2026-04-15",
+  "end_date": "2026-11-01",
+  "is_active": true,
+  "collation_count": 9,
+  "collation_id": "c008",
+  "publisher_platform": [
+   "facebook",
+   "instagram"
+  ],
+  "display_format": "VIDEO",
+  "snapshot": {
+   "body": {
+    "text": "Why hikers switched to Fernlo: the honest review."
+   },
+   "cta_text": "Shop now",
+   "link_url": "https://fernlo.example/offer"
+  }
+ },
+ {
+  "ad_archive_id": "90000000000009",
+  "page_name": "Fernlo Gear",
+  "page_id": "1000066853",
+  "start_date": "2026-10-24",
+  "end_date": "2026-11-01",
+  "is_active": true,
+  "collation_count": 1,
+  "collation_id": "c009",
+  "publisher_platform": [
+   "facebook",
+   "instagram"
+  ],
+  "display_format": "VIDEO",
+  "snapshot": {
+   "body": {
+    "text": "Our new trail pack is here."
+   },
+   "cta_text": "Shop now",
+   "link_url": "https://fernlo.example/offer"
+  }
+ },
+ {
+  "ad_archive_id": "90000000000010",
+  "page_name": "Fernlo Gear",
+  "page_id": "1000066853",
+  "start_date": "2026-08-23",
+  "end_date": "2026-08-27",
+  "is_active": false,
+  "collation_count": 1,
+  "collation_id": "c010",
+  "publisher_platform": [
+   "facebook",
+   "instagram"
+  ],
+  "display_format": "IMAGE",
+  "snapshot": {
+   "body": {
+    "text": "Weekend deal on all packs."
+   },
+   "cta_text": "Shop now",
+   "link_url": "https://fernlo.example/offer"
+  }
+ },
+ {
+  "ad_archive_id": "90000000000001",
+  "page_name": "Kettlepeak Outdoors",
+  "page_id": "1000027362",
+  "start_date": "2026-06-12",
+  "end_date": "2026-11-01",
+  "is_active": true,
+  "collation_count": 6,
+  "collation_id": "c001",
+  "publisher_platform": [
+   "facebook",
+   "instagram"
+  ],
+  "display_format": "VIDEO",
+  "snapshot": {
+   "body": {
+    "text": "The travel mug that keeps coffee hot for 12 hours."
+   },
+   "cta_text": "Shop now",
+   "link_url": "https://kettlepeak.example/offer"
+  }
+ }
+]

@@ -1,0 +1,150 @@
+[
+ {
+  "searchQuery": "laundry detergent",
+  "title": "BrightWash Liquid Laundry Detergent, Fresh Linen, 100 Loads, 132 fl oz",
+  "price": 17.97,
+  "currency": "USD",
+  "brand": "BrightWash"
+ },
+ {
+  "searchQuery": "laundry detergent",
+  "title": "BrightWash Liquid Laundry Detergent, Fresh Linen, 64 Loads, 84 fl oz",
+  "price": 9.97,
+  "currency": "USD",
+  "brand": "BrightWash"
+ },
+ {
+  "searchQuery": "laundry detergent",
+  "title": "BrightWash Liquid Laundry Detergent, Fresh Linen, 150 Loads, 196 fl oz",
+  "price": 29.94,
+  "currency": "USD",
+  "brand": "BrightWash"
+ },
+ {
+  "searchQuery": "laundry detergent",
+  "title": "CleanCo Free & Clear Laundry Liquid, 110 Loads, 145 fl oz",
+  "price": 13.48,
+  "currency": "USD",
+  "brand": "CleanCo"
+ },
+ {
+  "searchQuery": "laundry detergent",
+  "title": "Meadow Eco Laundry Pods, 42 Count",
+  "price": 15.99,
+  "currency": "USD",
+  "brand": "Meadow"
+ },
+ {
+  "searchQuery": "laundry detergent",
+  "title": "Meadow Eco Laundry Pods, 81 Count",
+  "price": 24.99,
+  "currency": "USD",
+  "brand": "Meadow"
+ },
+ {
+  "searchQuery": "laundry detergent",
+  "title": "SparkleHome Laundry Detergent Sheets, 60 Loads",
+  "price": 14.0,
+  "currency": "USD",
+  "brand": "SparkleHome"
+ },
+ {
+  "searchQuery": "laundry detergent",
+  "title": "Pure Basics Liquid Detergent 2 x 50 fl oz, 66 Loads",
+  "price": 12.49,
+  "currency": "USD",
+  "brand": "Pure Basics"
+ },
+ {
+  "searchQuery": "coffee pods",
+  "title": "Ridge Roasters Medium Roast K-Cup Pods, 72 Count",
+  "price": 36.99,
+  "currency": "USD",
+  "brand": "Ridge Roasters"
+ },
+ {
+  "searchQuery": "coffee pods",
+  "title": "Ridge Roasters Medium Roast K-Cup Pods, 24 Count",
+  "price": 11.49,
+  "currency": "USD",
+  "brand": "Ridge Roasters"
+ },
+ {
+  "searchQuery": "coffee pods",
+  "title": "Morning Mill Dark Roast Coffee Pods, 100 Ct",
+  "price": 39.99,
+  "currency": "USD",
+  "brand": "Morning Mill"
+ },
+ {
+  "searchQuery": "coffee pods",
+  "title": "Morning Mill Dark Roast Coffee Pods, 12 Ct (Pack of 6)",
+  "price": 29.94,
+  "currency": "USD",
+  "brand": "Morning Mill"
+ },
+ {
+  "searchQuery": "coffee pods",
+  "title": "Casa Bella Espresso Capsules, Nespresso Compatible, 50 pack",
+  "price": 29.0,
+  "currency": "USD",
+  "brand": "Casa Bella"
+ },
+ {
+  "searchQuery": "coffee pods",
+  "title": "Casa Bella Espresso Capsules, Nespresso Compatible, 10 pack",
+  "price": 5.7,
+  "currency": "USD",
+  "brand": "Casa Bella"
+ },
+ {
+  "searchQuery": "coffee pods",
+  "title": "Summit Brew Single Serve Pods, 48 Count",
+  "price": 31.99,
+  "currency": "USD",
+  "brand": "Summit Brew"
+ },
+ {
+  "searchQuery": "olive oil",
+  "title": "Olivar Extra Virgin Olive Oil 1 Liter",
+  "price": 14.99,
+  "currency": "USD",
+  "brand": "Olivar"
+ },
+ {
+  "searchQuery": "olive oil",
+  "title": "Olivar Extra Virgin Olive Oil 500 ml",
+  "price": 8.49,
+  "currency": "USD",
+  "brand": "Olivar"
+ },
+ {
+  "searchQuery": "olive oil",
+  "title": "Sunfield Extra Virgin Olive Oil, 2 L",
+  "price": 21.99,
+  "currency": "USD",
+  "brand": "Sunfield"
+ },
+ {
+  "searchQuery": "olive oil",
+  "title": "Terra Verde Organic Olive Oil 750ml (Pack of 2)",
+  "price": 26.5,
+  "currency": "USD",
+  "brand": "Terra Verde"
+ },
+ {
+  "searchQuery": "olive oil",
+  "title": "Golden Grove Olive Oil 3 Litre Tin",
+  "price": 29.0,
+  "currency": "USD",
+  "brand": "Golden Grove",
+  "discount_price": 24.0
+ },
+ {
+  "searchQuery": "olive oil",
+  "title": "Golden Grove Olive Oil 1L",
+  "price": 11.5,
+  "currency": "USD",
+  "brand": "Golden Grove"
+ }
+]

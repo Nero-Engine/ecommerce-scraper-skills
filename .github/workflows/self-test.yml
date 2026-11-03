@@ -1,0 +1,39 @@
+name: self-test
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: '41 6 * * 1'
+  workflow_dispatch:
+jobs:
+  skills:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node: ['18', '22']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node }}
+      - name: Every skill has name and description frontmatter
+        run: |
+          for f in skills/*/SKILL.md; do
+            d=$(basename "$(dirname "$f")")
+            head -1 "$f" | grep -qx -- '---' || { echo "$f: no frontmatter"; exit 1; }
+            grep -q "^name: $d$" "$f" || { echo "$f: name must be $d"; exit 1; }
+            grep -q "^description: ." "$f" || { echo "$f: no description"; exit 1; }
+          done
+          node -e "JSON.parse(require('fs').readFileSync('.claude-plugin/marketplace.json'));JSON.parse(require('fs').readFileSync('.claude-plugin/plugin.json'))"
+      - name: Price per unit check
+        run: node skills/price-per-unit-check/scripts/unit-price.cjs examples/sample-unit-prices.json --out /tmp/e1 && grep -q '"best_value"' /tmp/e1.json
+      - name: Amazon review trend
+        run: node skills/amazon-review-trend/scripts/review-trend.cjs examples/sample-amazon-reviews.json --as-of 2026-11-01 --out /tmp/e2 && grep -q '"falling"' /tmp/e2.json
+      - name: Winning ads finder
+        run: node skills/winning-ads-finder/scripts/winning-ads.cjs examples/sample-meta-ads.json --out /tmp/e3 && grep -q '"proven_winner"' /tmp/e3.json
+      - name: Reddit most recommended
+        run: node skills/reddit-most-recommended/scripts/reddit-recommends.cjs examples/sample-reddit-comments.json --out /tmp/e4 && grep -q '"recommendScore"' /tmp/e4.json
+      - name: Bad input fails cleanly
+        run: |
+          set +e
+          node skills/price-per-unit-check/scripts/unit-price.cjs missing.json; test $? -eq 2
